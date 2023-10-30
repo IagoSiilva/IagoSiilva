@@ -1,8 +1,8 @@
 ## Olá, me chamo Iago 👋
 
-Tenho experiência em desenvolvimento web e programação back-end com Python. 📚
+Tenho experiência em desenvolvimento web e programação back-end com Python. 🖥️
  
-Atualmente estou estudando desenvolvimento de aplicativos da web utilizando o framework Django. 🖥️
+Atualmente estou estudando desenvolvimento de aplicativos da web utilizando o framework Django. 📚
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoSiilva&layout=pie)](https://github.com/IagoSiilva/github-readme-stats)
 
